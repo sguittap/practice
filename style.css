@@ -1,0 +1,10 @@
+.nav-item{
+    text-decoration: underline;
+}
+.logo{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://banner2.kisspng.com/20180314/pjq/kisspng-logo-drawing-draplin-design-co-pretty-much-every-cool-logos-to-draw-5aa8e164e67344.8371036315210171889439.jpg");
+    display: flex;
+    text-align: center;
+}
